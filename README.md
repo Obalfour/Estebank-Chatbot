@@ -1,11 +1,10 @@
 # Chatbot Estebank
 
+Estebank is a chatbot created to assist clients of the bank XYZ using IBM Watson Assistant.
+
 <p align="center">
   <img src="https://i.imgur.com/Er8cwDa.png" alt="Estebank logo"/>
 </p>
-
-Estebank is a chatbot created to assist clients of the bank XYZ using IBM Watson Assistant.
-
 
 ## Usage
 
